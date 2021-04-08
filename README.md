@@ -1,7 +1,7 @@
 ### Dependência opcional no Maven
 
 # 1. Visão Geral
-Este breve tutorial descreverá a tag <optional> do Maven e como podemos usá-la para reduzir o tamanho e o escopo de um artefato de projeto Maven, como WAR, EAR ou JAR.
+Este breve tutorial descreverá a tag <<optional>> do Maven e como podemos usá-la para reduzir o tamanho e o escopo de um artefato de projeto Maven, como WAR, EAR ou JAR.
 
 Para relembrar o Maven, confira nosso guia completo.
 
